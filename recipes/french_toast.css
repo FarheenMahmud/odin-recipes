@@ -1,4 +1,8 @@
-
+h1{
+    padding: 20px;
+    color: white;
+    background-color: rgb(33, 54, 94);
+}
 
 .lyric-box {
     padding: 10px;
