@@ -24,3 +24,7 @@ h1{
 .main-bio {
     padding: 1px;
 }
+
+.ingredients-section {
+    background-color: rgb(245, 245, 255);
+}
