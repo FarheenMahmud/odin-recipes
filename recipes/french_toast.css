@@ -1,12 +1,12 @@
 h1{
     padding: 20px;
-    color: white;
-    background-color: rgb(33, 54, 94);
+    color: rgb(80, 143, 226);
+    background-color: rgb(248, 249, 255);;
 }
 
 .lyric-box {
     padding: 0px;
-    background-color: rgb(215, 200, 230);
+    background-color:  rgb(245, 245, 255);
 }
 
 .lyrics {
@@ -17,7 +17,7 @@ h1{
 
 .recipe-bio {
     padding: 1px;
-    background-color: rgb(215, 200, 230);;
+    background-color: rgb(245, 245, 255);
     color:black
 }
 
