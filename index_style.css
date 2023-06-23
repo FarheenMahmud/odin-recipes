@@ -1,4 +1,9 @@
 ul li a {
     text-decoration:underline;
     color:rgb(107, 106, 167);
+
+}
+
+a:visited {
+    color:rgb(228, 195, 231)
 }
